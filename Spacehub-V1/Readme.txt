@@ -1,5 +1,4 @@
-________________________________________HOW____TO____USE___?_______________________________________________________________________________________________
-
+________________________________________HOW_TO_USE_?____________________
 
 1.Launch launcher.bat
 2. enter in the roblox game (it will search thru current scripts if there is the needed exploit)
@@ -10,12 +9,12 @@ ________________________________________HOW____TO____USE___?____________________
 5. depending on the exploit there will either be an exploit menu or it will instantly start doing the exploit script.
 6. You can stop the exploit script by closing the spacehub gui.
 
-__________________________________________________EXTRA__________________________________________________________________________________________________________________________
+____________________________EXTRA_________________________
 
 YOU CAN ADD MORE EXPLOITS BY DOWNLOADING THEM AND ADDING THEM TO THE "SCRIPTS FOLDER".
 EXPLOITS ARE FOUND BY THE GAMES NAME IN THE SCRIPT FOLDER.
 ONLY .LUA EXPLOITS ARE ACCEPTED!
-___________________________________________________DOESNT WORK? TRY THIS:______________________________________________________________________
+____________________DOESNT WORK? TRY THIS:__________________
 
 _WARNING!_THIS_EXPLOIT_MAY_GET_DELETED_BY_YOUR_ANTI_VIRUS
 
@@ -23,6 +22,6 @@ IF THE EXPLOIT DOESNT WORK THERE IS A CHANCE THAT THE ANTIVIRUS ATE THE SCRIPT O
 
 it is RECCOMENDED to turn it off and after the use to turn it on.
 
-
+--------------------------------------------------------------
 DEVELOPERS NOTE: 
 Dont expect your antivirus to let you cheat in a game...
