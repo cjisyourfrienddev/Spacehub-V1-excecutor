@@ -8,6 +8,7 @@ ________________________________________HOW_TO_USE_?____________________
 4. when a small gui launches  click on the "spacehub" icon  then join a roblox game that you selected to exploit.
 5. depending on the exploit there will either be an exploit menu or it will instantly start doing the exploit script.
 6. You can stop the exploit script by closing the spacehub gui.
+7. Enjoy!
 
 ____________________________EXTRA_________________________
 
